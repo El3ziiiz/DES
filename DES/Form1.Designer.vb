@@ -32,7 +32,6 @@ Partial Class Form1
         txtBox.Name = "txtBox"
         txtBox.Size = New Size(205, 23)
         txtBox.TabIndex = 0
-        txtBox.Text = "string"
         ' 
         ' bttn
         ' 
@@ -47,7 +46,7 @@ Partial Class Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(881, 501)
+        ClientSize = New Size(1281, 716)
         Controls.Add(bttn)
         Controls.Add(txtBox)
         Name = "Form1"
