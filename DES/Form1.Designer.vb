@@ -29,16 +29,16 @@ Partial Class Form1
         ' 
         ' TextBox1
         ' 
-        TextBox1.Location = New Point(322, 165)
+        TextBox1.Location = New Point(345, 162)
         TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(205, 23)
+        TextBox1.Size = New Size(262, 23)
         TextBox1.TabIndex = 0
         ' 
         ' Button1
         ' 
         Button1.Location = New Point(345, 224)
         Button1.Name = "Button1"
-        Button1.Size = New Size(148, 78)
+        Button1.Size = New Size(262, 189)
         Button1.TabIndex = 1
         Button1.Text = "click"
         Button1.UseVisualStyleBackColor = True
@@ -46,7 +46,7 @@ Partial Class Form1
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Location = New Point(397, 396)
+        Label2.Location = New Point(458, 465)
         Label2.Name = "Label2"
         Label2.Size = New Size(41, 15)
         Label2.TabIndex = 2
